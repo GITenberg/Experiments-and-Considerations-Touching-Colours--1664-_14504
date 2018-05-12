@@ -1,0 +1,29 @@
+_repo: Experiments-and-Considerations-Touching-Colours--1664-_14504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyle, Robert
+    alias: Boyle, R. (Robert)
+    birthdate: 1627
+    deathdate: 1691
+    gutenberg_agent_id: '5554'
+    url: http://www.gutenberg.org/2009/agents/5554
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Boyle
+description: ''
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Color -- Early works to 1800'
+- !lcsh 'Colors -- Early works to 1800'
+- !lcc 'QC'
+title: Experiments and Considerations Touching Colours (1664)
+url: http://www.gutenberg.org/ebooks/14504
